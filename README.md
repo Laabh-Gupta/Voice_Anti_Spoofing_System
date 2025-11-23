@@ -50,6 +50,26 @@ The final test accuracies for the fine-tuned models on the unseen test set are a
 
 ---
 
+## 🌐 Web Application  
+
+To make the trained AI model accessible to everyone, a **full-stack web application** was developed and deployed.
+
+### 🔗 Live Web App  
+https://voiceantispoofing.netlify.app/
+
+### 💻 Web App GitHub Repository  
+https://github.com/Laabh-Gupta/Voice-Anti-Spoofing-Web-App
+
+### ⚙️ Web App Features
+- Upload audio directly from the browser  
+- Real-time prediction: **REAL vs FAKE voice**  
+- FastAPI backend deployed on **Railway**  
+- React frontend deployed on **Netlify**  
+- Clean UI & responsive design for users  
+- Uses the final fine-tuned AI model for inference
+
+---
+
 ## Setup and Installation
 
 Follow these steps to set up the project and run the applications locally.
