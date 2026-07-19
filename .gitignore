@@ -3,10 +3,15 @@ FakeVsRealDataset(for-rerec).zip
 __pycache__
 
 *.pth
+*.zip
+
+HuggingFace.ipynb
+test.ipynb
 
 prototyping_dataset
 
 .ipynb_checkpoints
+.vscode
 
 # 1. Ignore everything in the main dataset folder by default.
 /FakeVsRealDataset(for-rerec)/*
